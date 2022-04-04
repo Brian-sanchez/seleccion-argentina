@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/seleccion-argentina/static/css/main.33dcd2f7.css",
+    "main.js": "/seleccion-argentina/static/js/main.9640b618.js",
+    "static/media/afa-seleccion-argentina.png": "/seleccion-argentina/static/media/afa-seleccion-argentina.687468a41cf351ed8f66.png",
+    "static/media/arma_tu_equipo_vectorized.png": "/seleccion-argentina/static/media/arma_tu_equipo_vectorized.c75d5283564281a25c48.png",
+    "static/media/cancha.svg": "/seleccion-argentina/static/media/cancha.fc358517fa5c2cffa5bde619bec86f40.svg",
+    "index.html": "/seleccion-argentina/index.html",
+    "main.33dcd2f7.css.map": "/seleccion-argentina/static/css/main.33dcd2f7.css.map",
+    "main.9640b618.js.map": "/seleccion-argentina/static/js/main.9640b618.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33dcd2f7.css",
+    "static/js/main.9640b618.js"
+  ]
+}
